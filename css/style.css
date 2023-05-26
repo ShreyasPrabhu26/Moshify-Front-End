@@ -385,12 +385,6 @@ a {
 }
 
 /* QUOTE-BLOCK */
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
 
 .quote {
   font-size: 3rem;
@@ -436,5 +430,35 @@ body {
   }
   .author__comapany {
     font-size: 1.6rem;
+  }
+}
+
+/* GRIDS */
+
+.grid div {
+  height: 100px;
+}
+.div1 {
+  background-color: red;
+}
+.div2 {
+  background-color: blue;
+}
+.div3 {
+  background-color: rgb(40, 213, 181);
+}
+
+.grid {
+  display: grid;
+}
+@media screen and (min-width: 768px) {
+  .grid--1x2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .grid--1x3 {
+    grid-template-columns: repeat(3, 1fr);
   }
 }
