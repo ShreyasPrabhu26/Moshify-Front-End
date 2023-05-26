@@ -305,12 +305,6 @@ a {
 }
 
 /* PLANS */
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
 
 .plan__name {
   color: #fff;
@@ -369,4 +363,28 @@ body {
   position: absolute;
   top: -6px;
   right: 1%;
+}
+
+/* MEDIA OBECTS */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.media {
+  display: flex;
+}
+
+.media__title {
+  margin-top: 0;
+}
+
+.media__body {
+  margin: 0 2rem;
+}
+
+.media__image {
+  margin-top: 1rem;
 }
