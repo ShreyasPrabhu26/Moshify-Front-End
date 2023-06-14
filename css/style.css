@@ -201,7 +201,7 @@ a {
   cursor: pointer;
   font-style: 1.8rem;
   font-weight: 600;
-  padding: 2rem 3rem;
+  padding: 2rem 4vh;
   text-transform: uppercase;
   white-space: nowrap;
   text-align: center;
@@ -306,6 +306,7 @@ a {
   border: 0;
   flex-grow: 1;
   padding: 1.5rem 2rem;
+  width: 0;
 }
 
 /* CARDS */
@@ -742,18 +743,19 @@ a {
   box-shadow: 0 0 30px 20px #e6ebee;
   border: 0;
   margin: 4rem auto;
-  min-width: 670px;
+  max-width: 670px;
 }
 
 .block--domain__prices {
   max-width: 700px;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 6rem);
   font-size: 2rem;
   font-weight: 600;
   justify-items: center;
   margin: 0 auto;
+  color: var(--color-headings);
 }
 
 @media screen and (min-width: 768px) {
