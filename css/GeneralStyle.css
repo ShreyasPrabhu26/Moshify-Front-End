@@ -8,3 +8,8 @@
   margin: 0 auto;
   max-width: 1140px;
 }
+
+.img-width-fix {
+  width: 100%;
+  max-width: 90%;
+}

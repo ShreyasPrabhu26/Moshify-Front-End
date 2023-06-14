@@ -679,6 +679,11 @@ a {
   clip-path: polygon(0% 0%, 100% 0%, 100% 80%, 0 100%);
 }
 
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
 /* NAVIGATION BAR */
 
 .nav {
@@ -802,7 +807,6 @@ a {
 .feature {
   gap: 4rem 2rem;
   margin: 12rem 0;
-  border: 1px solid red;
   max-width: 90vw;
 }
 
