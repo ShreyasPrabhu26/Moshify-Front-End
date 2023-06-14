@@ -524,6 +524,10 @@ a {
   margin: 0 3rem;
 }
 
+.testimonial__image img {
+  border-radius: 10px;
+}
+
 .testimonial__image > .icon-container {
   position: absolute;
   top: 3rem;
@@ -546,9 +550,15 @@ a {
 .callout {
   padding: 4rem;
   border-radius: 5px;
+  margin: 0 auto;
+  position: relative;
+  top: 70px;
+  max-width: 80vw;
 }
 
 .callout--primary {
+  background: var(--color-primary);
+  color: #fff;
   background: var(--color-primary);
   color: #fff;
 }
