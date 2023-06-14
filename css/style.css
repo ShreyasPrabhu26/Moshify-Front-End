@@ -411,6 +411,19 @@ a {
 }
 
 /*Popular Badge */
+.card {
+  border-radius: 20px;
+}
+.card__header {
+  color: #fff;
+}
+.card--primary .card__header {
+  background: var(--color-primary);
+}
+
+.card--secondary .card__header {
+  background: #00d9ff;
+}
 
 .plan--popular .card__header {
   position: relative;
