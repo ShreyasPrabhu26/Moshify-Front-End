@@ -1,6 +1,6 @@
 # 🌐 Cloud Hosting for Pros - Front End
 
-Welcome to the Cloud Hosting for Pros Front End project! This repository showcases a lightning-fast solution for deploying your website in under 60 seconds. The project emphasizes simplicity and performance, using only HTML and CSS without relying on external libraries.
+Welcome to the Cloud Hosting for Pros Front End project!. The project emphasizes simplicity and performance, using only HTML and CSS without relying on external libraries.
 
 ## 🚀 Key Features
 
