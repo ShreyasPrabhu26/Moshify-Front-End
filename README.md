@@ -4,8 +4,6 @@ Welcome to the Cloud Hosting for Pros Front End project!. The project emphasizes
 
 ## 🚀 Key Features
 
-- **Swift Deployment**: Enjoy the convenience of deploying your website within a minute, allowing you to focus on your content and users.
-
 - **Custom Design**: Crafted from scratch using pure HTML and CSS, this project demonstrates the art of web design without the overhead of external dependencies.
 
 - **Captivating Imagery**: Enhance your website's aesthetics with a selection of stunning images that leave a lasting impression on your audience.
