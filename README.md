@@ -24,6 +24,6 @@ We welcome contributions from the community to make this project even better. If
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
+Thank you for checking out the Cloud Hosting for Pros Front End project. We hope it helps streamline your website deployment and offers a fantastic user experience.
 
-Thank you for checking out the Cloud Hosting for Pros Front End project. We hope it helps streamline your website deployment and offers a fantastic user experience. Happy coding!
+🌟Happy coding!🌟
