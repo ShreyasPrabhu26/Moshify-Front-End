@@ -20,8 +20,6 @@ To get started with this project, simply clone the repository to your local mach
 
 We welcome contributions from the community to make this project even better. If you have ideas for enhancements, bug fixes, or new features, please open an issue or submit a pull request. Your contributions are highly valued.
 
-## 📄 License
-
 Thank you for checking out the Cloud Hosting for Pros Front End project. We hope it helps streamline your website deployment and offers a fantastic user experience.
 
 ## 🌟Happy coding!🌟
